@@ -16,7 +16,7 @@
 
 [website]: https://daanishpeerkhan.ml
 [email]: https://mailto:daanish303@gmail.com
-[linkedin]: https://www.linkedin.com/in/daanishpeerkhan
+[linkedin]: https://www.linkedin.com/in/daanish-peerkhan
 
 ### Activity
 
