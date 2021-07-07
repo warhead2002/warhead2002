@@ -21,8 +21,8 @@
 ### Activity
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=warhead2002&count_private=tru&show_icons=true&hide=contribs,issues)
+<br>
 
-![Daanish's github stats](https://github-readme-stats.vercel.app/api?username=warhead2002&show_icons=true&hide_border=true&theme=tokyonight)
 ![Daanish's github language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=warhead2002&theme=tokyonight&layout=compact&hide_border=true)
 <!--
 **warhead2002/warhead2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
